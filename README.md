@@ -1,2 +1,4 @@
 # Princess Escape
-Fun to Play 2D Game
+An old concept game with new taste.
+
+
